@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=B0C4DE&height=300&section=header&text=SOJEONG-LEE&fontSize=80&fontAlign=50&fontColor=000000&animation=fadeIn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=growthlee0125&show_icons=true&theme=radical)
 </br>
 </br>
 <p align="center">
@@ -7,6 +8,9 @@
 </br>
 <a href="https://github.com/growthlee0125/growthlee0125">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=growthlee0125" />
+</a>
+<a href="https://github.com/growthlee0125/growthlee0125">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=growhlee0125" />
 </a>
 </br>
 <h3 align="center"><b>🛠 My Tech Stack 🛠</b></h3>
