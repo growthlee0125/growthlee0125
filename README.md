@@ -2,6 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=growthlee0125&show_icons=true&theme=radical)
 </br>
 </br>
+<h3 align="center"><b>😎 Today's </b></h3>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgrowthlee0125&count_bg=%2303E505&title_bg=%23030202&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
@@ -21,3 +22,12 @@
 <p align="center">
 <a href="mailto:growthlee0125@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 </p>
+</br>
+<h3 align="center"><b>🎞 My Project History 🎞</b></h3>
+<a href="https://github.com/growthlee0125/SaladMall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=SaladMall" />
+</a>
+<a href="https://github.com/growthlee0125/FirstProjectHomepage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=FirstProjectHomepage" />
+</a>
+</br>
