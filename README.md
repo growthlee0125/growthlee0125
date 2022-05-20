@@ -24,13 +24,11 @@
 </p>
 </br>
 <h3 align="center"><b>🎞 My Project History 🎞</b></h3>
-<a href="https://github.com/growthlee0125/SaladMall">
+<center> <a href="https://github.com/growthlee0125/SaladMall">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=SaladMall" />
 </a>
 <a href="https://github.com/growthlee0125/FirstProjectHomepage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=FirstProjectHomepage" />
 </a>
-<a href="https://github.com/growthlee0125/markbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=markbook" />
-</a>
+  </center>
 </br>
