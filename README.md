@@ -6,13 +6,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgrowthlee0125&count_bg=%2303E505&title_bg=%23030202&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
 </br>
-<a href="https://github.com/growthlee0125/growthlee0125">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=growthlee0125" />
-</a>
-<a href="https://github.com/growthlee0125/growthlee0125">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=growhlee0125" />
-</a>
-</br>
 <h3 align="center"><b>🛠 My Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
